@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5a0&height=200&section=header&text=XSS%20Payload%20Arsenal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Professional%20XSS%20Testing%20Chrome%20Extension&descAlignY=58&descSize=18" width="100%"/>
