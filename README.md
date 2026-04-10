@@ -11,7 +11,7 @@
 
 <!-- DEMO GIF PLACEHOLDER -->
 <!-- Replace the line below with your actual GIF once recorded -->
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*z5kQ6DQuPdc-FFsN3FHi9w.gif" alt="XSS Payload Arsenal Demo" width="500" style="border-radius:12px; border: 1px solid #1a2535"/>
+<img src="https://raw.githubusercontent.com/tanush-kushwah/XSS-Payload-Arsenal/refs/heads/main/xss.gif" alt="XSS Payload Arsenal Demo" width="500" style="border-radius:12px; border: 1px solid #1a2535"/>
 
 
 </div>
