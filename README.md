@@ -8,12 +8,8 @@
 > Built-in library of **70+ XSS payloads** with live search, auto-inject, and custom payload storage.
 
 <br/>
-
-<!-- DEMO GIF PLACEHOLDER -->
-<!-- Replace the line below with your actual GIF once recorded -->
-<img src="https://raw.githubusercontent.com/tanush-kushwah/XSS-Payload-Arsenal/refs/heads/main/xss.gif" alt="XSS Payload Arsenal Demo" width="500" style="border-radius:12px; border: 1px solid #1a2535"/>
-
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tanush-kushwah/XSS-Payload-Arsenal/refs/heads/main/xss.gif" alt="XSS Payload Arsenal Demo" width="750" style="border-radius:10px; border:2px solid #00f5a0; box-shadow: 0 0 20px rgba(0,245,160,0.3);"/>
 </div>
 
 ---
