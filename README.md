@@ -40,7 +40,7 @@ curl -L https://github.com/tanush-kushwah/xss-payload-arsenal/archive/refs/heads
 unzip xss-payload-arsenal.zip
 
 # Enter the folder
-cd xss-payload-arsenal-main
+cd XSS-Payload-Arsenal-main
 ```
 
 ### Option 3 — Download Manually
