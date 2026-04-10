@@ -83,7 +83,7 @@ Toggle the "Developer mode" switch → located in the TOP RIGHT corner of the pa
 **Step 3 — Load the Extension**
 
 ```
-Click "Load unpacked"  →  Select the folder:  xss-payload-arsenal/
+Click "Load unpacked"  →  Select the folder:  xss-extension-v2/
 ```
 
 > ⚠️ Make sure you select the **root folder** (the one that contains `manifest.json`)
