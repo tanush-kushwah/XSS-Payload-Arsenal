@@ -28,6 +28,9 @@ git clone https://github.com/tanush-kushwah/xss-payload-arsenal.git
 
 # 2. Navigate into the folder
 cd xss-payload-arsenal
+
+# 3. Unzip the folder
+unzip xss-extension-v2.zip
 ```
 
 ### Option 2 — Download ZIP
@@ -41,6 +44,10 @@ unzip xss-payload-arsenal.zip
 
 # Enter the folder
 cd XSS-Payload-Arsenal-main
+
+# Unzip the folder
+unzip xss-extension-v2.zip
+
 ```
 
 ### Option 3 — Download Manually
